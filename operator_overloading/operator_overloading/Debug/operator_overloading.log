@@ -1,0 +1,7 @@
+﻿  Array.cpp
+  Date.cpp
+  operator_overloading.cpp
+E:\hossain\operator_overloading\operator_overloading\operator_overloading.cpp(118,8): error C2374: 'integers1': redefinition; multiple initialization
+E:\hossain\operator_overloading\operator_overloading\operator_overloading.cpp(42): message : see declaration of 'integers1'
+  PhoneNumber.cpp
+  Generating Code...
